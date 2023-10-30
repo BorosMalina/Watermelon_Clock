@@ -1,2 +1,4 @@
 # (Fruit) Clock
-## To be revisited - Currently only a watermelon clock.
+## Currently only a watermelon clock.
+
+# Link: https://borosmalina.github.io/Watermelon_Clock/
